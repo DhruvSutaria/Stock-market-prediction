@@ -1,1 +1,1 @@
-Model made using Moving Averages and LSTM model
+Stock Market Prediction using Moving averages and LSTM model 
